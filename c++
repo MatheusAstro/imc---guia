@@ -1,3 +1,4 @@
+// IMC EM C++ //
 #include <iostream>
 #include <cmath> 
 using namespace std;
@@ -13,3 +14,5 @@ int main() {
   imc = peso / (altura * altura);
    cout<< "Seu imc e: " << imc  << endl ;
    return  0;
+
+// IMC EM C //
